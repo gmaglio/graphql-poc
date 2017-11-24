@@ -1,0 +1,22 @@
+{
+  "name": "graphql-poc",
+  "version": "0.0.1",
+  "description": "A Proof of Concept of graph QL",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Gregory Maglio",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^1.2.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "graphql": "^0.11.7",
+    "graphql-tools": "^2.7.2",
+    "mongodb": "^2.2.33"
+  }
+}
